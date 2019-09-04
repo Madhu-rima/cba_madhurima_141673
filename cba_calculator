@@ -22,7 +22,7 @@ int main()
 
     /* Print welcome message */
 
-    printf("WELCOME TO SIMPLE CALCULATOR\n");
+    printf("Yo, Calculator here\n");
 
     printf("----------------------------\n");
 
